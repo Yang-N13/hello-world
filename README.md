@@ -1,5 +1,2 @@
 # hello-world
-
-Hi!
-
-This is a Chinese boy.
+Just another repository
